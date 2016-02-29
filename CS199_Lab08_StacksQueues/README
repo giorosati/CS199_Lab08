@@ -1,0 +1,30 @@
+Giovanni Rosati
+OSU ID# 932510038
+rosatig@oregonstate.edu
+
+February 17, 2016
+Project 4 README
+CS_199_400_W2016
+
+
+The program can be compiled by typing “make all” in the directory containing the uncompressed files from the rosatig.zip archive. 
+
+
+Make will look for the following files:
+lab8.cpp
+myStack.cpp
+
+and an executable file named “prog” will be created in the same directory. 
+
+
+Three things I found difficult:
+1) 
+2) 
+3) 
+
+Three things I learned:
+1) 
+2) 
+3) 
+
+
